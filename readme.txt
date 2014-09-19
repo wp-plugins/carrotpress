@@ -44,7 +44,7 @@ International Carrot Day (April 4), National Eat Your Vegetables Day (June 17, U
 
 == Changelog ==
 
-= 1.0.0 (DATE) =
+= 1.0.0 (19 Sept 2014) =
 * Welease the wabbits!
 
 == Upgrade Notice ==
