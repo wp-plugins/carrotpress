@@ -1,4 +1,4 @@
-=== Feature A Page Widget ===
+﻿=== CarrotPress ===
 Contributors: mrwweb
 Donate link: https://www.networkforgood.org/donation/MakeDonation.aspx?ORGID2=522061398
 Tags: Checkboxes, Radio Buttons, Dashicons, Carrots
